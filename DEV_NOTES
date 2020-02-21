@@ -1,0 +1,11 @@
+PYTHON DEPENDENCIES:    
+    - requests
+        version: 4.5.0
+        desc: "A python package for HTTP requests."
+        web: https://pypi.org/project/requests/
+        license: "Apache 2.0"
+
+
+IMPORTANT NOTES:
+    - Absolute import
+        In this package absolute import is used, so must add the root folder to system's PYTHONPATH environment variable.
